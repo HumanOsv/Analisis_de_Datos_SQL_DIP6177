@@ -15,7 +15,7 @@ evalúan a través de una rúbrica.
 
 
 
-**SQL para el análisis de datos
+  SQL para el análisis de datos
 
 
 
