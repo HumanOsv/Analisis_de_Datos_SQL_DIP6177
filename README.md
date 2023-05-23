@@ -44,7 +44,7 @@ de problemas de diversos ámbitos.
 ## Introducción a Base de datos
 
 * Introducción parte 1 [Clase 1](https://www.dropbox.com/sh/qusarj37ardrfx9/AAC-M-uoSM9UpRvOms3iDVBaa?dl=0).
-* Introducción parte 1 [Clase 2](https://www.dropbox.com/sh/qptcojrq0fjju23/AADy4GZ1XyKIxBsOIBtJ0UEfa?dl=0).
+* Introducción parte 2 [Clase 2](https://www.dropbox.com/sh/qptcojrq0fjju23/AADy4GZ1XyKIxBsOIBtJ0UEfa?dl=0).
 
 ## Analisis de Datos con SQL
 
