@@ -14,23 +14,23 @@ La evaluación de la asignatura contempla actividades formativas, así como tamb
 evalúan a través de una rúbrica.
 
 
-# SQL para el análisis de datos
+## SQL para el análisis de datos
 
-*Contenidos:
+**Contenidos:**
 
 * SQL básico: SELECT, FROM, WHERE y operadores lógicos correspondientes.
 * SQL Joins: Combinar tablas mediante joins SQL para responder preguntas empresariales.
 * SQL avanzado: sub consultas (CTE), RANK, NTILE, LAG, LEAD. Limpieza de datos, optimizar consultas y escribir JOIN''s
 avabzados.
 
-*Actividades
+**Actividades**
 
 * Participa activamente de las clases sincrónicas a través de ZOOM.
 * Lectura de textos y material complementario indicados por el profesor.
 * Participa activamente en foro del aula virtual cuando se lo indica su profesor.
 * Practica sentencias y consultas avanzadas en SQL para responder preguntas entorno a un negocio.
 
-*Actitudes
+**Actitudes**
 
 * Manifiestan disposición para la entrega los trabajos y tareas de acuerdo con los lineamientos solicitados y en los plazos
 establecidos.
