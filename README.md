@@ -52,6 +52,10 @@ de problemas de diversos ámbitos.
 
 ## Recursos digitales
 
+* SQL Fiddle A tool for easy online testing and sharing of database problems and their solutions. [link](http://sqlfiddle.com/).
+* Programa especializado: Learn SQL Basics for Data Science. [link](https://www.coursera.org/learn/intro-sql).
+* SQL Tutorial. [link](https://sqlzoo.net/wiki/SQL_Tutorial).
+* SQL: The Complete Reference is the right book for anyone who wants to understand and learn SQL, including database users. [link](http://160592857366.free.fr/joe/ebooks/ShareData/SQL%20-%20The%20Complete%20Reference.pdf).
 
 
 
