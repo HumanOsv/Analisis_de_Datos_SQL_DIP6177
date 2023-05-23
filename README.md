@@ -13,3 +13,5 @@ apoya la toma de decisiones y cuáles son las herramientas disponibles actualmen
 La evaluación de la asignatura contempla actividades formativas, así como también evaluaciones sumativas a través de la elaboración de informes que se
 evalúan a través de una rúbrica.
 
+
+* SQL para el análisis de datos
