@@ -58,6 +58,16 @@ de problemas de diversos ámbitos.
 * SQL Tutorial. [link](https://sqlzoo.net/wiki/SQL_Tutorial).
 * SQL: The Complete Reference is the right book for anyone who wants to understand and learn SQL, including database users. [link](http://160592857366.free.fr/joe/ebooks/ShareData/SQL%20-%20The%20Complete%20Reference.pdf).
 
+## XAMPP para Windows
+
+XAMPP es una distribución de Apache fácil de instalar que contiene MariaDB, PHP y Perl. Simplemente descarga y ejecuta el instalador. ¡Es así de fácil!
+
+* Descargar XAMPP [link](https://www.apachefriends.org/es/download.html)
+* Tutorial instalación XAMPP 1 [link](https://notasdelprofesor.files.wordpress.com/2014/02/xampp-instalacion.pdf)
+* Tutorial instalación XAMPP 2 [link](https://www.ionos.es/digitalguide/servidores/herramientas/instala-tu-servidor-local-xampp-en-unos-pocos-pasos/)
+* Video tutorial instalación XAMPP [link](https://www.youtube.com/watch?v=MtllDrDm4cM)
+
+
 
 
 
