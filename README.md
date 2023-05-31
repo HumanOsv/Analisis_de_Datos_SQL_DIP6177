@@ -49,7 +49,7 @@ de problemas de diversos ámbitos.
 ### Analisis de Datos con SQL
 
 * Introducción SQL [Clase 3](https://www.dropbox.com/sh/cmcw6h561yiq89h/AACY6T52Mki_LrNKl7y5WqvMa?dl=0).
-* Tablas y SQL [Clase 3](https://www.dropbox.com/sh/ixanvliw1dp4yr2/AABKQ41uOh9aYDNkFZNQ5F8Fa?dl=0).
+* Tablas y SQL [Clase 4](https://www.dropbox.com/sh/ixanvliw1dp4yr2/AABKQ41uOh9aYDNkFZNQ5F8Fa?dl=0).
 
 ## Recursos digitales
 
