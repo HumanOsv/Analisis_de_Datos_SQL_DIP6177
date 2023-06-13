@@ -21,7 +21,7 @@ evalúan a través de una rúbrica.</p>
 * SQL básico: SELECT, FROM, WHERE y operadores lógicos correspondientes.
 * SQL Joins: Combinar tablas mediante joins SQL para responder preguntas empresariales.
 * SQL avanzado: sub consultas (CTE), RANK, NTILE, LAG, LEAD. Limpieza de datos, optimizar consultas y escribir JOIN''s
-avabzados.
+avanzados.
 
 **Actividades**
 
