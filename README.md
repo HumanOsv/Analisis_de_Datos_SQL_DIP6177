@@ -50,6 +50,7 @@ de problemas de diversos ámbitos.
 
 * Introducción SQL [Clase 3](https://www.dropbox.com/sh/cmcw6h561yiq89h/AACY6T52Mki_LrNKl7y5WqvMa?dl=0).
 * Tablas y SQL [Clase 4](https://www.dropbox.com/sh/ixanvliw1dp4yr2/AABKQ41uOh9aYDNkFZNQ5F8Fa?dl=0).
+* SQL Create , Alter y Drop [Clase 5](https://www.dropbox.com/sh/hyey3b5pxgyr6u8/AAArk0dM31YLTzv2RLJU0fR0a?dl=0).
 
 ## Recursos digitales
 
