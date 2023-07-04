@@ -53,7 +53,7 @@ de problemas de diversos ámbitos.
 * SQL: Create, Alter y Drop [Clase 5](https://www.dropbox.com/sh/hyey3b5pxgyr6u8/AAArk0dM31YLTzv2RLJU0fR0a?dl=0).
 * SQL: Joins [Clase 6](https://www.dropbox.com/sh/iu5sbyqrpgtcne6/AAALIIXA_vR1hwXW-wLKWV9Aa?dl=0).
 * SQL: sub-consultas (CTE), RANK, NTILE, LAG, LEAD y JOINS avanzados [Clase 7](https://www.dropbox.com/sh/cthyu0strlz1ki5/AAAShBjRtmO1OnB4bNGh4u0Ma?dl=0).
-* SQL: Transacciones. Procedimientos Almacenados. Triggers y Vistas [Clase 8](https://www.dropbox.com/sh/isny93ugdepn1tc/AAClFLfgdiTwY-tJmA1B1xoSa?dl=0)
+* SQL: Transacciones. Procedimientos Almacenados. Triggers y Vistas [Clase 8](https://www.dropbox.com/sh/isny93ugdepn1tc/AAClFLfgdiTwY-tJmA1B1xoSa?dl=0).
 
 ### Proyecto Final
 
