@@ -54,6 +54,10 @@ de problemas de diversos ámbitos.
 * SQL: Joins [Clase 6](https://www.dropbox.com/sh/iu5sbyqrpgtcne6/AAALIIXA_vR1hwXW-wLKWV9Aa?dl=0)
 * SQL: sub-consultas (CTE), RANK, NTILE, LAG, LEAD y JOINS avanzados [Clase 7](https://www.dropbox.com/sh/cthyu0strlz1ki5/AAAShBjRtmO1OnB4bNGh4u0Ma?dl=0)
 
+### Proyecto Final
+
+* Rubrica proyecto final curso SQL [link](https://www.dropbox.com/s/5cvp9e0s2ibk0x6/Rubrica_examen_final.pdf?dl=0).
+
 ## Recursos digitales
 
 * SQL Fiddle A tool for easy online testing and sharing of database problems and their solutions. [link](http://sqlfiddle.com/).
