@@ -1,4 +1,4 @@
-# Analisis de Datos y SQL (DIP6177)
+# Analisis de Datos y SQL (DIP)
 
 <p> La asignatura Análisis de datos y SQL, es una asignatura del Diplomado en Business Analytics y tiene como propósito que los participantes desarrollen
 conocimientos y habilidades para analizar datos, ya sea calculando medidas estadísticas o creando visualizaciones. Asimismo, podrán manipular tablas de
