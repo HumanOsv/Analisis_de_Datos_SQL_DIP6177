@@ -54,6 +54,8 @@ de problemas de diversos ámbitos.
 * SQL: Joins [Clase 6](https://www.dropbox.com/sh/iu5sbyqrpgtcne6/AAALIIXA_vR1hwXW-wLKWV9Aa?dl=0).
 * SQL: sub-consultas (CTE), RANK, NTILE, LAG, LEAD y JOINS avanzados [Clase 7](https://www.dropbox.com/sh/cthyu0strlz1ki5/AAAShBjRtmO1OnB4bNGh4u0Ma?dl=0).
 * SQL: Transacciones. Procedimientos Almacenados. Triggers y Vistas [Clase 8](https://www.dropbox.com/sh/isny93ugdepn1tc/AAClFLfgdiTwY-tJmA1B1xoSa?dl=0).
+* SQL: MySQL en Google Colab. [Clase 9](https://www.dropbox.com/scl/fo/ttv010xpahotngptkd1rp/AJn5vJV9Q1EmhLw1sjR2-jk?rlkey=0u0r86aatkmohla53dsoxu3m1&dl=0).
+
 
 ### Proyecto Final
 
